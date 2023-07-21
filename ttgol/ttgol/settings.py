@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b6jynt@%j&s@s%(e3sz2ju%+$ex!!&d1*npiutiearz!=#--!*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*',]
+ALLOWED_HOSTS = ['https://burgundy-haddock-ring.cyclic.app',]
 
 
 # Application definition
